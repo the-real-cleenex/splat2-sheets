@@ -1,0 +1,104 @@
+{
+  "brands": [
+    {
+      "name": "Amiibo",
+      "most_common": "N/A",
+      "least_common": "N/A"
+    },
+    {
+      "name": "Annaki",
+      "most_common": "Cold-Blooded",
+      "least_common": "Special Saver"
+    },
+    {
+      "name": "Cuttlegear",
+      "most_common": "N/A",
+      "least_common": "N/A"
+    },
+    {
+      "name": "Enperry",
+      "most_common": "Sub Power Up",
+      "least_common": "Ink Resistance Up"
+    },
+    {
+      "name": "Firefin",
+      "most_common": "Ink Saver (Sub)",
+      "least_common": "Ink Recovery Up"
+    },
+    {
+      "name": "Forge",
+      "most_common": "Special Power Up",
+      "least_common": "Ink Saver (Sub)"
+    },
+    {
+      "name": "Grizzco",
+      "most_common": "N/A",
+      "least_common": "N/A"
+    },
+    {
+      "name": "Inkline",
+      "most_common": "Bomb Defense Up",
+      "least_common": "Cold-Blooded"
+    },
+    {
+      "name": "Enperry",
+      "most_common": "Sub Power Up",
+      "least_common": "Ink Resistance Up"
+    },
+    {
+      "name": "Krak-On",
+      "most_common": "Swim Speed Up",
+      "least_common": "Bomb Defense Up"
+    },
+    {
+      "name": "Rockenberg",
+      "most_common": "Run Speed Up",
+      "least_common": "Swim Speed Up"
+    },
+    {
+      "name": "Enperry",
+      "most_common": "Sub Power Up",
+      "least_common": "Ink Resistance Up"
+    },
+    {
+      "name": "Skalop",
+      "most_common": "Quick Respawn",
+      "least_common": "Special Saver"
+    },
+    {
+      "name": "Splash Mob",
+      "most_common": "Ink Saver (Main)",
+      "least_common": "Run Speed Up"
+    },
+    {
+      "name": "SquidForce",
+      "most_common": "Ink Resistance Up",
+      "least_common": "Ink Saver (Main)"
+    },
+    {
+      "name": "Takoroka",
+      "most_common": "Special Charge Up",
+      "least_common": "Ink Recovery Up"
+    },
+    {
+      "name": "Tentatek",
+      "most_common": "Ink Recovery Up",
+      "least_common": "Quick Super Jump"
+    },
+    {
+      "name": "Toni Kensa",
+      "most_common": "Cold-Blooded",
+      "least_common": "Sub Power Up"
+    },
+    {
+      "name": "Zekko",
+      "most_common": "Special Saver",
+      "least_common": "Special Charge Up"
+    },
+    {
+      "name": "Zink",
+      "most_common": "Quick Super Jump",
+      "least_common": "Quick Respawn"
+    }
+  ]
+}
