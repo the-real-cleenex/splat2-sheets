@@ -1,6 +1,6 @@
 {
     "shirtObjs": [{
-            "image": "images/gear/Clt_FST001.png",
+            "image": "images/gear/shirts/Clt_FST001.png",
             "name": "Basic Tee",
             "localizedName": {
                 "ja_JP": "わかばイカＴ",
@@ -17,7 +17,7 @@
             "id": 0
         },
         {
-            "image": "images/gear/Clt_TES000.png",
+            "image": "images/gear/shirts/Clt_TES000.png",
             "name": "White Tee",
             "localizedName": {
                 "ja_JP": "イカホワイト",
@@ -34,7 +34,7 @@
             "id": 1
         },
         {
-            "image": "images/gear/Clt_TES001.png",
+            "image": "images/gear/shirts/Clt_TES001.png",
             "name": "Black Squideye",
             "localizedName": {
                 "ja_JP": "イカノメＴ ブラック",
@@ -51,7 +51,7 @@
             "id": 2
         },
         {
-            "image": "images/gear/Clt_TES006.png",
+            "image": "images/gear/shirts/Clt_TES006.png",
             "name": "Black Tee",
             "localizedName": {
                 "ja_JP": "イカブラック",
@@ -68,7 +68,7 @@
             "id": 3
         },
         {
-            "image": "images/gear/Clt_TES007.png",
+            "image": "images/gear/shirts/Clt_TES007.png",
             "name": "Sunny-Day Tee",
             "localizedName": {
                 "ja_JP": "サニーオレンジＴ",
@@ -85,7 +85,7 @@
             "id": 4
         },
         {
-            "image": "images/gear/Clt_TES010.png",
+            "image": "images/gear/shirts/Clt_TES010.png",
             "name": "Fugu Tee",
             "localizedName": {
                 "ja_JP": "マルフグＴ",
@@ -102,7 +102,7 @@
             "id": 5
         },
         {
-            "image": "images/gear/Clt_TES011.png",
+            "image": "images/gear/shirts/Clt_TES011.png",
             "name": "Mint Tee",
             "localizedName": {
                 "ja_JP": "ミントＴ",
@@ -119,7 +119,7 @@
             "id": 6
         },
         {
-            "image": "images/gear/Clt_TES013.png",
+            "image": "images/gear/shirts/Clt_TES013.png",
             "name": "Red Vector Tee",
             "localizedName": {
                 "ja_JP": "ベクトルパターン レッド",
@@ -136,7 +136,7 @@
             "id": 7
         },
         {
-            "image": "images/gear/Clt_TES015.png",
+            "image": "images/gear/shirts/Clt_TES015.png",
             "name": "Blue Peaks Tee",
             "localizedName": {
                 "ja_JP": "ヤマビコＴ ブルー",
@@ -153,7 +153,7 @@
             "id": 8
         },
         {
-            "image": "images/gear/Clt_TES019.png",
+            "image": "images/gear/shirts/Clt_TES019.png",
             "name": "Sailor-Stripe Tee",
             "localizedName": {
                 "ja_JP": "マリンボーダー",
@@ -170,7 +170,7 @@
             "id": 9
         },
         {
-            "image": "images/gear/Clt_TES020.png",
+            "image": "images/gear/shirts/Clt_TES020.png",
             "name": "White 8-Bit FishFry",
             "localizedName": {
                 "ja_JP": "ヤキフグ8bit ホワイト",
@@ -187,7 +187,7 @@
             "id": 10
         },
         {
-            "image": "images/gear/Clt_TES022.png",
+            "image": "images/gear/shirts/Clt_TES022.png",
             "name": "White Anchor Tee",
             "localizedName": {
                 "ja_JP": "ガチホワイト",
@@ -204,7 +204,7 @@
             "id": 11
         },
         {
-            "image": "images/gear/Clt_TES030.png",
+            "image": "images/gear/shirts/Clt_TES030.png",
             "name": "Black V-Neck Tee",
             "localizedName": {
                 "ja_JP": "イカブラックV",
@@ -221,7 +221,7 @@
             "id": 12
         },
         {
-            "image": "images/gear/Clt_TES031.png",
+            "image": "images/gear/shirts/Clt_TES031.png",
             "name": "White Deca Logo Tee",
             "localizedName": {
                 "ja_JP": "デカロゴＴ シロ",
@@ -238,7 +238,7 @@
             "id": 13
         },
         {
-            "image": "images/gear/Clt_TES032.png",
+            "image": "images/gear/shirts/Clt_TES032.png",
             "name": "Half-Sleeve Sweater",
             "localizedName": {
                 "ja_JP": "スウェットT ゴブ",
@@ -255,7 +255,7 @@
             "id": 14
         },
         {
-            "image": "images/gear/Clt_TES033.png",
+            "image": "images/gear/shirts/Clt_TES033.png",
             "name": "King Jersey",
             "localizedName": {
                 "ja_JP": "キングHKシャツ",
@@ -272,7 +272,7 @@
             "id": 15
         },
         {
-            "image": "images/gear/Clt_TES034.png",
+            "image": "images/gear/shirts/Clt_TES034.png",
             "name": "Gray 8-Bit FishFry",
             "localizedName": {
                 "ja_JP": "ヤキフグ8bit グレー",
@@ -289,7 +289,7 @@
             "id": 16
         },
         {
-            "image": "images/gear/Clt_TES035.png",
+            "image": "images/gear/shirts/Clt_TES035.png",
             "name": "White V-Neck Tee",
             "localizedName": {
                 "ja_JP": "イカホワイトV",
@@ -306,7 +306,7 @@
             "id": 17
         },
         {
-            "image": "images/gear/Clt_TES036.png",
+            "image": "images/gear/shirts/Clt_TES036.png",
             "name": "White Urchin Rock Tee",
             "localizedName": {
                 "ja_JP": "ガンガゼロックT シロ",
@@ -323,7 +323,7 @@
             "id": 18
         },
         {
-            "image": "images/gear/Clt_TES037.png",
+            "image": "images/gear/shirts/Clt_TES037.png",
             "name": "Black Urchin Rock Tee",
             "localizedName": {
                 "ja_JP": "ガンガゼロックT クロ",
@@ -340,7 +340,7 @@
             "id": 19
         },
         {
-            "image": "images/gear/Clt_TES038.png",
+            "image": "images/gear/shirts/Clt_TES038.png",
             "name": "Wet Floor Band Tee",
             "localizedName": {
                 "ja_JP": "バンドT WETFLOOR",
@@ -357,7 +357,7 @@
             "id": 20
         },
         {
-            "image": "images/gear/Clt_TES039.png",
+            "image": "images/gear/shirts/Clt_TES039.png",
             "name": "Squid Squad Band Tee",
             "localizedName": {
                 "ja_JP": "バンドT SQUIDSQUAD",
@@ -374,7 +374,7 @@
             "id": 21
         },
         {
-            "image": "images/gear/Clt_TES040.png",
+            "image": "images/gear/shirts/Clt_TES040.png",
             "name": "Navy Deca Logo Tee",
             "localizedName": {
                 "ja_JP": "デカロゴT ノーコン",
@@ -391,7 +391,7 @@
             "id": 22
         },
         {
-            "image": "images/gear/Clt_TES041.png",
+            "image": "images/gear/shirts/Clt_TES041.png",
             "name": "Mister Shrug Tee",
             "localizedName": {
                 "ja_JP": "ミスターシュラッグT",
@@ -408,7 +408,7 @@
             "id": 23
         },
         {
-            "image": "images/gear/Clt_TES042.png",
+            "image": "images/gear/shirts/Clt_TES042.png",
             "name": "Chirpy Chips Band Tee",
             "localizedName": {
                 "ja_JP": "バンドT ABXY",
@@ -425,7 +425,7 @@
             "id": 24
         },
         {
-            "image": "images/gear/Clt_TES043.png",
+            "image": "images/gear/shirts/Clt_TES043.png",
             "name": "Hightide Era Band Tee",
             "localizedName": {
                 "ja_JP": "バンドT HIGHTIDEERA",
@@ -442,7 +442,7 @@
             "id": 25
         },
         {
-            "image": "images/gear/Clt_TES044.png",
+            "image": "images/gear/shirts/Clt_TES044.png",
             "name": "Red V-Neck Limited Tee",
             "localizedName": {
                 "ja_JP": "イカレッドV コラボ",
@@ -459,7 +459,7 @@
             "id": 26
         },
         {
-            "image": "images/gear/Clt_TES045.png",
+            "image": "images/gear/shirts/Clt_TES045.png",
             "name": "Green V-Neck Limited Tee",
             "localizedName": {
                 "ja_JP": "イカグリーンV コラボ",
@@ -476,7 +476,7 @@
             "id": 27
         },
         {
-            "image": "images/gear/Clt_TEL001.png",
+            "image": "images/gear/shirts/Clt_TEL001.png",
             "name": "Black LS",
             "localizedName": {
                 "ja_JP": "バニーポップ ブラック",
@@ -493,7 +493,7 @@
             "id": 28
         },
         {
-            "image": "images/gear/Clt_TEL002.png",
+            "image": "images/gear/shirts/Clt_TEL002.png",
             "name": "Purple Camo LS",
             "localizedName": {
                 "ja_JP": "カモフラパープル",
@@ -510,7 +510,7 @@
             "id": 29
         },
         {
-            "image": "images/gear/Clt_TEL003.png",
+            "image": "images/gear/shirts/Clt_TEL003.png",
             "name": "Navy Striped LS",
             "localizedName": {
                 "ja_JP": "ボーダーネイビー",
@@ -527,7 +527,7 @@
             "id": 30
         },
         {
-            "image": "images/gear/Clt_TEL004.png",
+            "image": "images/gear/shirts/Clt_TEL004.png",
             "name": "Zekko Baseball LS",
             "localizedName": {
                 "ja_JP": "エゾッコラグラン",
@@ -544,7 +544,7 @@
             "id": 31
         },
         {
-            "image": "images/gear/Clt_TEL007.png",
+            "image": "images/gear/shirts/Clt_TEL007.png",
             "name": "White Baseball LS",
             "localizedName": {
                 "ja_JP": "ハラシロラグラン",
@@ -561,7 +561,7 @@
             "id": 32
         },
         {
-            "image": "images/gear/Clt_TEL013.png",
+            "image": "images/gear/shirts/Clt_TEL013.png",
             "name": "Pink Easy-Stripe Shirt",
             "localizedName": {
                 "ja_JP": "ゆとりボーダー ピンク",
@@ -578,7 +578,7 @@
             "id": 33
         },
         {
-            "image": "images/gear/Clt_TEL014.png",
+            "image": "images/gear/shirts/Clt_TEL014.png",
             "name": "Inkopolis Squaps Jersey",
             "localizedName": {
                 "ja_JP": "トビウォーズHKユニ",
@@ -595,7 +595,7 @@
             "id": 34
         },
         {
-            "image": "images/gear/Clt_TEL015.png",
+            "image": "images/gear/shirts/Clt_TEL015.png",
             "name": "Annaki Drive Tee",
             "localizedName": {
                 "ja_JP": "アナアキロンT ドライブ",
@@ -612,7 +612,7 @@
             "id": 35
         },
         {
-            "image": "images/gear/Clt_TEL016.png",
+            "image": "images/gear/shirts/Clt_TEL016.png",
             "name": "Lime Easy-Stripe Shirt",
             "localizedName": {
                 "ja_JP": "ゆとりボーダー ライム",
@@ -629,7 +629,7 @@
             "id": 36
         },
         {
-            "image": "images/gear/Clt_TEL017.png",
+            "image": "images/gear/shirts/Clt_TEL017.png",
             "name": "Annaki Evolution Tee",
             "localizedName": {
                 "ja_JP": "アナアキロンT イボルブ",
@@ -646,7 +646,7 @@
             "id": 37
         },
         {
-            "image": "images/gear/Clt_TLY001.png",
+            "image": "images/gear/shirts/Clt_TLY001.png",
             "name": "Yellow Layered LS",
             "localizedName": {
                 "ja_JP": "マスタードガサネ",
@@ -663,7 +663,7 @@
             "id": 38
         },
         {
-            "image": "images/gear/Clt_TLY004.png",
+            "image": "images/gear/shirts/Clt_TLY004.png",
             "name": "Zink Layered LS",
             "localizedName": {
                 "ja_JP": "アイロニックレイヤード",
@@ -680,7 +680,7 @@
             "id": 39
         },
         {
-            "image": "images/gear/Clt_TLY005.png",
+            "image": "images/gear/shirts/Clt_TLY005.png",
             "name": "Layered Anchor LS",
             "localizedName": {
                 "ja_JP": "ガチガサネ",
@@ -697,7 +697,7 @@
             "id": 40
         },
         {
-            "image": "images/gear/Clt_TLY006.png",
+            "image": "images/gear/shirts/Clt_TLY006.png",
             "name": "Choco Layered LS",
             "localizedName": {
                 "ja_JP": "チョコガサネ",
@@ -714,7 +714,7 @@
             "id": 41
         },
         {
-            "image": "images/gear/Clt_TLY008.png",
+            "image": "images/gear/shirts/Clt_TLY008.png",
             "name": "Layered Vector LS",
             "localizedName": {
                 "ja_JP": "ベクトルラインガサネ",
@@ -731,7 +731,7 @@
             "id": 42
         },
         {
-            "image": "images/gear/Clt_TLY009.png",
+            "image": "images/gear/shirts/Clt_TLY009.png",
             "name": "Green Tee",
             "localizedName": {
                 "ja_JP": "グリーンＴ",
@@ -748,7 +748,7 @@
             "id": 43
         },
         {
-            "image": "images/gear/Clt_TLY010.png",
+            "image": "images/gear/shirts/Clt_TLY010.png",
             "name": "Red Tentatek Tee",
             "localizedName": {
                 "ja_JP": "アロメテックT レッド",
@@ -765,7 +765,7 @@
             "id": 44
         },
         {
-            "image": "images/gear/Clt_TLY011.png",
+            "image": "images/gear/shirts/Clt_TLY011.png",
             "name": "Blue Tentatek Tee",
             "localizedName": {
                 "ja_JP": "アロメテックT ブルー",
@@ -782,7 +782,7 @@
             "id": 45
         },
         {
-            "image": "images/gear/Clt_PLO000.png",
+            "image": "images/gear/shirts/Clt_PLO000.png",
             "name": "Shrimp-Pink Polo",
             "localizedName": {
                 "ja_JP": "さくらエビポロ",
@@ -799,7 +799,7 @@
             "id": 46
         },
         {
-            "image": "images/gear/Clt_PLO006.png",
+            "image": "images/gear/shirts/Clt_PLO006.png",
             "name": "Cycle King Jersey",
             "localizedName": {
                 "ja_JP": "チャリキングジャージ",
@@ -816,7 +816,7 @@
             "id": 47
         },
         {
-            "image": "images/gear/Clt_PLO007.png",
+            "image": "images/gear/shirts/Clt_PLO007.png",
             "name": "Slipstream United",
             "localizedName": {
                 "ja_JP": "FCカラスミ",
@@ -833,7 +833,7 @@
             "id": 48
         },
         {
-            "image": "images/gear/Clt_PLO008.png",
+            "image": "images/gear/shirts/Clt_PLO008.png",
             "name": "FC Albacore",
             "localizedName": {
                 "ja_JP": "アオサドーレ",
@@ -850,7 +850,7 @@
             "id": 49
         },
         {
-            "image": "images/gear/Clt_JKT002.png",
+            "image": "images/gear/shirts/Clt_JKT002.png",
             "name": "Berry Ski Jacket",
             "localizedName": {
                 "ja_JP": "マウンテンベリー",
@@ -867,7 +867,7 @@
             "id": 50
         },
         {
-            "image": "images/gear/Clt_JKT003.png",
+            "image": "images/gear/shirts/Clt_JKT003.png",
             "name": "Varsity Jacket",
             "localizedName": {
                 "ja_JP": "スタジャンロゴマシ",
@@ -884,7 +884,7 @@
             "id": 51
         },
         {
-            "image": "images/gear/Clt_JKT006.png",
+            "image": "images/gear/shirts/Clt_JKT006.png",
             "name": "Black Inky Rider",
             "localizedName": {
                 "ja_JP": "イカライダーBLACK",
@@ -901,7 +901,7 @@
             "id": 52
         },
         {
-            "image": "images/gear/Clt_JKT007.png",
+            "image": "images/gear/shirts/Clt_JKT007.png",
             "name": "White Inky Rider",
             "localizedName": {
                 "ja_JP": "イカライダーWHITE",
@@ -918,7 +918,7 @@
             "id": 53
         },
         {
-            "image": "images/gear/Clt_JKT012.png",
+            "image": "images/gear/shirts/Clt_JKT012.png",
             "name": "Blue Sailor Suit",
             "localizedName": {
                 "ja_JP": "イカセーラー ブルー",
@@ -935,7 +935,7 @@
             "id": 54
         },
         {
-            "image": "images/gear/Clt_JKT014.png",
+            "image": "images/gear/shirts/Clt_JKT014.png",
             "name": "Squid Satin Jacket",
             "localizedName": {
                 "ja_JP": "イカスカジャン",
@@ -952,7 +952,7 @@
             "id": 55
         },
         {
-            "image": "images/gear/Clt_JKT017.png",
+            "image": "images/gear/shirts/Clt_JKT017.png",
             "name": "Chilly Mountain Coat",
             "localizedName": {
                 "ja_JP": "マウンテンフローズン",
@@ -969,7 +969,7 @@
             "id": 56
         },
         {
-            "image": "images/gear/Clt_JKT018.png",
+            "image": "images/gear/shirts/Clt_JKT018.png",
             "name": "Takoroka Windcrusher",
             "localizedName": {
                 "ja_JP": "ヤコナイロンレトロ",
@@ -986,7 +986,7 @@
             "id": 57
         },
         {
-            "image": "images/gear/Clt_JKT019.png",
+            "image": "images/gear/shirts/Clt_JKT019.png",
             "name": "Matcha Down Jacket",
             "localizedName": {
                 "ja_JP": "マッチャ ライトダウン",
@@ -1003,7 +1003,7 @@
             "id": 58
         },
         {
-            "image": "images/gear/Clt_JKT020.png",
+            "image": "images/gear/shirts/Clt_JKT020.png",
             "name": "FA-01 Jacket",
             "localizedName": {
                 "ja_JP": "FA-01オモテ",
@@ -1020,7 +1020,7 @@
             "id": 59
         },
         {
-            "image": "images/gear/Clt_JKT021.png",
+            "image": "images/gear/shirts/Clt_JKT021.png",
             "name": "FA-01 Reversed",
             "localizedName": {
                 "ja_JP": "FA-01ウラ",
@@ -1037,7 +1037,7 @@
             "id": 60
         },
         {
-            "image": "images/gear/Clt_JKT022.png",
+            "image": "images/gear/shirts/Clt_JKT022.png",
             "name": "Pullover Coat",
             "localizedName": {
                 "ja_JP": "プルオーバーコート",
@@ -1054,7 +1054,7 @@
             "id": 61
         },
         {
-            "image": "images/gear/Clt_JKT024.png",
+            "image": "images/gear/shirts/Clt_JKT024.png",
             "name": "Birded Corduroy Jacket",
             "localizedName": {
                 "ja_JP": "トリスカベッチン",
@@ -1071,7 +1071,7 @@
             "id": 62
         },
         {
-            "image": "images/gear/Clt_JKT026.png",
+            "image": "images/gear/shirts/Clt_JKT026.png",
             "name": "Zekko Redleaf Coat",
             "localizedName": {
                 "ja_JP": "エゾッココーチ アカネ",
@@ -1088,7 +1088,7 @@
             "id": 63
         },
         {
-            "image": "images/gear/Clt_JKT027.png",
+            "image": "images/gear/shirts/Clt_JKT027.png",
             "name": "Eggplant Mountain Coat",
             "localizedName": {
                 "ja_JP": "マウンテンノリタマゴ",
@@ -1105,7 +1105,7 @@
             "id": 64
         },
         {
-            "image": "images/gear/Clt_JKT028.png",
+            "image": "images/gear/shirts/Clt_JKT028.png",
             "name": "Zekko Jade Coat",
             "localizedName": {
                 "ja_JP": "エゾッココーチ モエギ",
@@ -1122,7 +1122,7 @@
             "id": 65
         },
         {
-            "image": "images/gear/Clt_JKT030.png",
+            "image": "images/gear/shirts/Clt_JKT030.png",
             "name": "Brown FA-11 Bomber",
             "localizedName": {
                 "ja_JP": "FA-11オモテ カスタム",
@@ -1139,7 +1139,7 @@
             "id": 66
         },
         {
-            "image": "images/gear/Clt_JKT031.png",
+            "image": "images/gear/shirts/Clt_JKT031.png",
             "name": "Gray FA-11 Bomber",
             "localizedName": {
                 "ja_JP": "FA-11ウラ カスタム",
@@ -1156,7 +1156,7 @@
             "id": 67
         },
         {
-            "image": "images/gear/Clt_TNK001.png",
+            "image": "images/gear/shirts/Clt_TNK001.png",
             "name": "B-ball Jersey (Away)",
             "localizedName": {
                 "ja_JP": "バスケジャージ アウェイ",
@@ -1173,7 +1173,7 @@
             "id": 68
         },
         {
-            "image": "images/gear/Clt_TNK003.png",
+            "image": "images/gear/shirts/Clt_TNK003.png",
             "name": "White King Tank",
             "localizedName": {
                 "ja_JP": "キングタンク ホワイト",
@@ -1190,7 +1190,7 @@
             "id": 69
         },
         {
-            "image": "images/gear/Clt_TNK004.png",
+            "image": "images/gear/shirts/Clt_TNK004.png",
             "name": "Slash King Tank",
             "localizedName": {
                 "ja_JP": "キングタンク スラッシュ",
@@ -1207,7 +1207,7 @@
             "id": 70
         },
         {
-            "image": "images/gear/Clt_TNK005.png",
+            "image": "images/gear/shirts/Clt_TNK005.png",
             "name": "Navy King Tank",
             "localizedName": {
                 "ja_JP": "キングタンク マリン",
@@ -1224,7 +1224,7 @@
             "id": 71
         },
         {
-            "image": "images/gear/Clt_SWT002.png",
+            "image": "images/gear/shirts/Clt_SWT002.png",
             "name": "Retro Sweat",
             "localizedName": {
                 "ja_JP": "レトロジャッジ",
@@ -1241,7 +1241,7 @@
             "id": 72
         },
         {
-            "image": "images/gear/Clt_SWT005.png",
+            "image": "images/gear/shirts/Clt_SWT005.png",
             "name": "Reel Sweat",
             "localizedName": {
                 "ja_JP": "リールロールスウェット",
@@ -1258,7 +1258,7 @@
             "id": 73
         },
         {
-            "image": "images/gear/Clt_SWT006.png",
+            "image": "images/gear/shirts/Clt_SWT006.png",
             "name": "Anchor Sweat",
             "localizedName": {
                 "ja_JP": "イカリスウェット",
@@ -1275,7 +1275,7 @@
             "id": 74
         },
         {
-            "image": "images/gear/Clt_SWT007.png",
+            "image": "images/gear/shirts/Clt_SWT007.png",
             "name": "Negative Longcuff Sweater",
             "localizedName": {
                 "ja_JP": "ドロップスウェット ネガ",
@@ -1292,7 +1292,7 @@
             "id": 75
         },
         {
-            "image": "images/gear/Clt_SWT008.png",
+            "image": "images/gear/shirts/Clt_SWT008.png",
             "name": "Short Knit Layers",
             "localizedName": {
                 "ja_JP": "ショートニットカサネ",
@@ -1309,7 +1309,7 @@
             "id": 76
         },
         {
-            "image": "images/gear/Clt_SWT009.png",
+            "image": "images/gear/shirts/Clt_SWT009.png",
             "name": "Positive Longcuff Sweater",
             "localizedName": {
                 "ja_JP": "ドロップスウェット ポジ",
@@ -1326,7 +1326,7 @@
             "id": 77
         },
         {
-            "image": "images/gear/Clt_SHT002.png",
+            "image": "images/gear/shirts/Clt_SHT002.png",
             "name": "Green-Check Shirt",
             "localizedName": {
                 "ja_JP": "ギンガムチェック ミドリ",
@@ -1343,7 +1343,7 @@
             "id": 78
         },
         {
-            "image": "images/gear/Clt_SHT004.png",
+            "image": "images/gear/shirts/Clt_SHT004.png",
             "name": "Urchins Jersey",
             "localizedName": {
                 "ja_JP": "ウーニーズBBシャツ",
@@ -1360,7 +1360,7 @@
             "id": 79
         },
         {
-            "image": "images/gear/Clt_SHT007.png",
+            "image": "images/gear/shirts/Clt_SHT007.png",
             "name": "Baby-Jelly Shirt",
             "localizedName": {
                 "ja_JP": "ベイビークラゲシャツ",
@@ -1377,7 +1377,7 @@
             "id": 80
         },
         {
-            "image": "images/gear/Clt_SHT010.png",
+            "image": "images/gear/shirts/Clt_SHT010.png",
             "name": "Vintage Check Shirt",
             "localizedName": {
                 "ja_JP": "ヴィンテージチェック",
@@ -1394,7 +1394,7 @@
             "id": 81
         },
         {
-            "image": "images/gear/Clt_SHT012.png",
+            "image": "images/gear/shirts/Clt_SHT012.png",
             "name": "Logo Aloha Shirt",
             "localizedName": {
                 "ja_JP": "ロゴマシマシアロハ",
@@ -1411,7 +1411,7 @@
             "id": 82
         },
         {
-            "image": "images/gear/Clt_SHT015.png",
+            "image": "images/gear/shirts/Clt_SHT015.png",
             "name": "Shirt & Tie",
             "localizedName": {
                 "ja_JP": "タイシャツ",
@@ -1428,7 +1428,7 @@
             "id": 83
         },
         {
-            "image": "images/gear/Clt_SHT017.png",
+            "image": "images/gear/shirts/Clt_SHT017.png",
             "name": "Hula Punk Shirt",
             "localizedName": {
                 "ja_JP": "ピーターパンクシャツ",
@@ -1445,7 +1445,7 @@
             "id": 84
         },
         {
-            "image": "images/gear/Clt_SHT018.png",
+            "image": "images/gear/shirts/Clt_SHT018.png",
             "name": "Octobowler Shirt",
             "localizedName": {
                 "ja_JP": "タコボウラーシャツ",
@@ -1462,7 +1462,7 @@
             "id": 85
         },
         {
-            "image": "images/gear/Clt_SHT019.png",
+            "image": "images/gear/shirts/Clt_SHT019.png",
             "name": "Inkfall Shirt",
             "localizedName": {
                 "ja_JP": "スミカケシャツ",
@@ -1479,7 +1479,7 @@
             "id": 86
         },
         {
-            "image": "images/gear/Clt_SHT020.png",
+            "image": "images/gear/shirts/Clt_SHT020.png",
             "name": "Crimson Parashooter",
             "localizedName": {
                 "ja_JP": "パラシューター ザクロ",
@@ -1496,7 +1496,7 @@
             "id": 87
         },
         {
-            "image": "images/gear/Clt_SHT021.png",
+            "image": "images/gear/shirts/Clt_SHT021.png",
             "name": "Baby-Jelly Shirt & Tie",
             "localizedName": {
                 "ja_JP": "タイツキベイビークラゲ",
@@ -1513,7 +1513,7 @@
             "id": 88
         },
         {
-            "image": "images/gear/Clt_SHT022.png",
+            "image": "images/gear/shirts/Clt_SHT022.png",
             "name": "Prune Parashooter",
             "localizedName": {
                 "ja_JP": "パラシューター プルーン",
@@ -1530,7 +1530,7 @@
             "id": 89
         },
         {
-            "image": "images/gear/Clt_VST002.png",
+            "image": "images/gear/shirts/Clt_VST002.png",
             "name": "Dark Urban Vest",
             "localizedName": {
                 "ja_JP": "アーバンベスト ナイト",
@@ -1547,7 +1547,7 @@
             "id": 90
         },
         {
-            "image": "images/gear/Clt_VST003.png",
+            "image": "images/gear/shirts/Clt_VST003.png",
             "name": "Yellow Urban Vest",
             "localizedName": {
                 "ja_JP": "アーバンベスト イエロー",
@@ -1564,7 +1564,7 @@
             "id": 91
         },
         {
-            "image": "images/gear/Clt_PRK000.png",
+            "image": "images/gear/shirts/Clt_PRK000.png",
             "name": "Camo Zip Hoodie",
             "localizedName": {
                 "ja_JP": "ジップアップ カモ",
@@ -1581,7 +1581,7 @@
             "id": 92
         },
         {
-            "image": "images/gear/Clt_PRK002.png",
+            "image": "images/gear/shirts/Clt_PRK002.png",
             "name": "Zekko Hoodie",
             "localizedName": {
                 "ja_JP": "エゾッコパーカー アズキ",
@@ -1598,7 +1598,7 @@
             "id": 93
         },
         {
-            "image": "images/gear/Clt_PRK004.png",
+            "image": "images/gear/shirts/Clt_PRK004.png",
             "name": "Shirt with Blue Hoodie",
             "localizedName": {
                 "ja_JP": "シャツノゾキブルー",
@@ -1615,7 +1615,7 @@
             "id": 94
         },
         {
-            "image": "images/gear/Clt_PRK005.png",
+            "image": "images/gear/shirts/Clt_PRK005.png",
             "name": "Grape Hoodie",
             "localizedName": {
                 "ja_JP": "キングパーカー グレープ",
@@ -1632,7 +1632,7 @@
             "id": 95
         },
         {
-            "image": "images/gear/Clt_PRK006.png",
+            "image": "images/gear/shirts/Clt_PRK006.png",
             "name": "Gray Hoodie",
             "localizedName": {
                 "ja_JP": "ホタパーカー グレー",
@@ -1649,7 +1649,7 @@
             "id": 96
         },
         {
-            "image": "images/gear/Clt_COP100.png",
+            "image": "images/gear/shirts/Clt_COP100.png",
             "name": "Squiddor Polo",
             "localizedName": {
                 "ja_JP": "イカテンくんポロ",
@@ -1666,7 +1666,7 @@
             "id": 97
         },
         {
-            "image": "images/gear/Clt_COP101.png",
+            "image": "images/gear/shirts/Clt_COP101.png",
             "name": "Anchor Life Vest",
             "localizedName": {
                 "ja_JP": "アンカーベスト",
@@ -1683,7 +1683,7 @@
             "id": 98
         },
         {
-            "image": "images/gear/Clt_COP102.png",
+            "image": "images/gear/shirts/Clt_COP102.png",
             "name": "Juice Parka",
             "localizedName": {
                 "ja_JP": "フューエルブルゾン",
@@ -1700,7 +1700,7 @@
             "id": 99
         },
         {
-            "image": "images/gear/Clt_AMB000.png",
+            "image": "images/gear/shirts/Clt_AMB000.png",
             "name": "School Uniform",
             "localizedName": {
                 "ja_JP": "スクールブレザー",
@@ -1717,7 +1717,7 @@
             "id": 100
         },
         {
-            "image": "images/gear/Clt_AMB001.png",
+            "image": "images/gear/shirts/Clt_AMB001.png",
             "name": "Samurai Jacket",
             "localizedName": {
                 "ja_JP": "サムライジャケット",
@@ -1734,7 +1734,7 @@
             "id": 101
         },
         {
-            "image": "images/gear/Clt_AMB002.png",
+            "image": "images/gear/shirts/Clt_AMB002.png",
             "name": "Power Armor",
             "localizedName": {
                 "ja_JP": "パワードスーツ",
@@ -1751,7 +1751,7 @@
             "id": 102
         },
         {
-            "image": "images/gear/Clt_AMB003.png",
+            "image": "images/gear/shirts/Clt_AMB003.png",
             "name": "School Cardigan",
             "localizedName": {
                 "ja_JP": "スクールカーデ",
@@ -1768,7 +1768,7 @@
             "id": 103
         },
         {
-            "image": "images/gear/Clt_AMB004.png",
+            "image": "images/gear/shirts/Clt_AMB004.png",
             "name": "Squinja Suit",
             "localizedName": {
                 "ja_JP": "ニンジャスーツ",
@@ -1785,7 +1785,7 @@
             "id": 104
         },
         {
-            "image": "images/gear/Clt_AMB005.png",
+            "image": "images/gear/shirts/Clt_AMB005.png",
             "name": "Power Armor Mk I",
             "localizedName": {
                 "ja_JP": "パワードスーツ オリジン",
@@ -1802,7 +1802,7 @@
             "id": 105
         },
         {
-            "image": "images/gear/Clt_MSN000.png",
+            "image": "images/gear/shirts/Clt_MSN000.png",
             "name": "Hero Jacket Replica",
             "localizedName": {
                 "ja_JP": "フェスＴ",
@@ -1819,7 +1819,7 @@
             "id": 106
         },
         {
-            "image": "images/gear/Clt_MSN004.png",
+            "image": "images/gear/shirts/Clt_MSN004.png",
             "name": "Armor Jacket Replica",
             "localizedName": {
                 "ja_JP": "ヒーロージャケット レプリカ",
@@ -1836,7 +1836,7 @@
             "id": 107
         },
         {
-            "image": "images/gear/Clt_MSN101.png",
+            "image": "images/gear/shirts/Clt_MSN101.png",
             "name": "Hero Hoodie Replica",
             "localizedName": {
                 "ja_JP": "アーマージャケット レプリカ",
@@ -1853,7 +1853,7 @@
             "id": 108
         },
         {
-            "image": "images/gear/Clt_HAP001.png",
+            "image": "images/gear/shirts/Clt_HAP001.png",
             "name": "Splatfest Tee",
             "localizedName": {
                 "ja_JP": "フェスＴ",

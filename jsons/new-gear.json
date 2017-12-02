@@ -1,0 +1,221 @@
+{
+  "headgear": [
+    {
+      "image": "images/gear/headgear/B-ball_Headband",
+      "name": "B-ball Headband",
+      "brand": "Zink",
+      "main": "Opening Gambit",
+      "stars": 1
+    },
+    {
+      "image": "images/gear/headgear/Black_Arrowbands.png",
+      "name": "Black Arrowbands",
+      "brand": "Zekko",
+      "main": "Tenacity",
+      "stars": 2
+    },
+    {
+      "image": "images/gear/headgear/Classic_Straw_Boater.png",
+      "name": "Classic Straw Boater",
+      "brand": "Skalop",
+      "main": "Special Power Up",
+      "stars": 2
+    },
+    {
+      "image": "images/gear/headgear/Cycling_Cap.png",
+      "name": "Cycling Cap",
+      "brand": "Zink",
+      "main": "Sub Power Up",
+      "stars": 1
+    },
+    {
+      "image": "images/gear/headgear/Designer_Headphones.png",
+      "name": "Designer Headphones",
+      "brand": "Forge",
+      "main": "Ink Saver (Sub)",
+      "stars": 2
+    },
+    {
+      "image": "images/gear/headgear/Double_Egg_Shades.png",
+      "name": "Double Egg Shades",
+      "brand": "Zekko",
+      "main": "Run Speed Up",
+      "stars": 2
+    },
+    {
+      "image": "images/gear/headgear/Face_Visor.png",
+      "name": "Face Visor",
+      "brand": "Toni Kensa",
+      "main": "Bomb Defense Up",
+      "stars": 3
+    },
+    {
+      "image": "images/gear/headgear/FishFry_Biscuit_Bandana.png",
+      "name": "FishFry Biscuit Bandana",
+      "brand": "Firefin",
+      "main": "Special Power Up",
+      "stars": 1
+    },
+    {
+      "image": "images/gear/headgear/Hed_FST000.png",
+      "name": "Forge Mask",
+      "brand": "Forge",
+      "main": "Cold-Blooded",
+      "stars": 1
+    },
+    {
+      "image": "images/gear/headgear/Fugu_Bell_Hat.png",
+      "name": "Fugu Bell Hat",
+      "brand": "Firefin",
+      "main": "Quick Respawn",
+      "stars": 2
+    },
+    {
+      "image": "images/gear/headgear/Full_Moon_Glasses.png",
+      "name": "Full Moon Glasses",
+      "brand": "Krak-On",
+      "main": "Quick Super Jump",
+      "stars": 1
+    },
+    {
+      "image": "images/gear/headgear/House-Tag_Denim_Cap.png",
+      "name": "House-Tag Denim Cap",
+      "brand": "Splash Mob",
+      "main": "Special Charge Up",
+      "stars": 2
+    },
+    {
+      "image": "images/gear/headgear/Jet_Cap.png",
+      "name": "Jet Cap",
+      "brand": "Firefin",
+      "main": "Special Saver",
+      "stars": 1
+    },
+    {
+      "image": "images/gear/headgear/Jungle_Hat.png",
+      "name": "Jungle Hat",
+      "brand": "Firefin",
+      "main": "Ink Saver (Main)",
+      "stars": 3
+    },
+    {
+      "image": "images/gear/headgear/Matte_Bike_Helmet.png",
+      "name": "Matte Bike Helmet",
+      "brand": "Zekko",
+      "main": "Sub Power Up",
+      "stars": 3
+    },
+    {
+      "image": "images/gear/headgear/Moist_Ghillie_Helmet.png",
+      "name": "Moist Ghillie Helmet",
+      "brand": "Forge",
+      "main": "Run Speed Up",
+      "stars": 3
+    },
+    {
+      "image": "images/gear/headgear/Motocross_Nose_Guard.png",
+      "name": "Motocross Nose Guard",
+      "brand": "Forge",
+      "main": "Special Charge Up",
+      "stars": 3
+    },
+    {
+      "image": "images/gear/headgear/Paisley_Bandana.png",
+      "name": "Paisley Bandana",
+      "brand": "Krak-On",
+      "main": "Ink Saver (Sub)",
+      "stars": 1
+    },
+    {
+      "image": "images/gear/headgear/Short_Beanie.png",
+      "name": "Short Beanie",
+      "brand": "Inkline",
+      "main": "Ink Saver (Main)",
+      "stars": 1
+    },
+    {
+      "image": "images/gear/headgear/Skate_Helmet.png",
+      "name": "Skate Helmet",
+      "brand": "Skalop",
+      "main": "Special Saver",
+      "stars": 2
+    },
+    {
+      "image": "images/gear/headgear/Sneaky_Beanie.png",
+      "name": "Sneaky Beanie",
+      "brand": "Skalop",
+      "main": "Swim Speed Up",
+      "stars": 2
+    },
+    {
+      "image": "images/gear/headgear/Splash_Goggles.png",
+      "name": "Splash Goggles",
+      "brand": "Forge",
+      "main": "Bomb Defense Up",
+      "stars": 2
+    },
+    {
+      "image": "images/gear/headgear/Sporty_Bobble_Hat.png",
+      "name": "Sporty Bobble Hat",
+      "brand": "Skalop",
+      "main": "Tenacity",
+      "stars": 1
+    },
+    {
+      "image": "images/gear/headgear/Squidlife_Headphones.png",
+      "name": "Squidlife Headphones",
+      "brand": "Forge",
+      "main": "Ink Recovery Up",
+      "stars": 3
+    },
+    {
+      "image": "images/gear/headgear/Stealth_Goggles.png",
+      "name": "Stealth Goggles",
+      "brand": "Forge",
+      "main": "Swim Speed Up",
+      "stars": 3
+    },
+    {
+      "image": "images/gear/headgear/Streetstyle_Cap.png",
+      "name": "Streetstyle Cap",
+      "brand": "Skalop",
+      "main": "Ink Saver (Sub)",
+      "stars": 1
+    },
+    {
+      "image": "images/gear/headgear/Treasure_Hunter.png",
+      "name": "Treasure Hunter",
+      "brand": "Forge",
+      "main": "Ink Recovery Up",
+      "stars": 2
+    },
+    {
+      "image": "images/gear/headgear/Tulip_Parasol.png",
+      "name": "Tulip Parasol",
+      "brand": "Inkline",
+      "main": "Ink Resistance Up",
+      "stars": 1
+    },
+    {
+      "image": "images/gear/headgear/Two-Stripe_Mesh.png",
+      "name": "Two-Stripe Mesh",
+      "brand": "Krak-On",
+      "main": "Special Saver",
+      "stars": 1
+    },
+    {
+      "image": "images/gear/headgear/Woolly_Urchins_Classic.png",
+      "name": "Woolly Urchins Classic",
+      "brand": "Krak-On",
+      "main": "Comeback",
+      "stars": 2
+    },
+    {
+      "image": "images/gear/headgear/Yamagiri_Beanie.png",
+      "name": "Yamagiri Beanie",
+      "brand": "Inkline",
+      "main": "Cold-Blooded",
+      "stars": 1
+    }
+  ]
+}

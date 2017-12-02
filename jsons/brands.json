@@ -3,102 +3,110 @@
     {
       "name": "Amiibo",
       "most_common": "N/A",
-      "least_common": "N/A"
+      "least_common": "N/A",
+      "image": "images/brands/B99.png"
     },
     {
       "name": "Annaki",
       "most_common": "Cold-Blooded",
-      "least_common": "Special Saver"
+      "least_common": "Special Saver",
+      "image": "images/brands/B15.png"
     },
     {
       "name": "Cuttlegear",
       "most_common": "N/A",
-      "least_common": "N/A"
+      "least_common": "N/A",
+      "image": "images/brands/B98.png"
     },
     {
       "name": "Enperry",
       "most_common": "Sub Power Up",
-      "least_common": "Ink Resistance Up"
+      "least_common": "Ink Resistance Up",
+      "image": "images/brands/B16.png"
     },
     {
       "name": "Firefin",
       "most_common": "Ink Saver (Sub)",
-      "least_common": "Ink Recovery Up"
+      "least_common": "Ink Recovery Up",
+      "image": "images/brands/B06.png"
     },
     {
       "name": "Forge",
       "most_common": "Special Power Up",
-      "least_common": "Ink Saver (Sub)"
+      "least_common": "Ink Saver (Sub)",
+      "image": "images/brands/B05.png"
     },
     {
       "name": "Grizzco",
       "most_common": "N/A",
-      "least_common": "N/A"
+      "least_common": "N/A",
+      "image": "images/brands/B97.png"
     },
     {
       "name": "Inkline",
       "most_common": "Bomb Defense Up",
-      "least_common": "Cold-Blooded"
-    },
-    {
-      "name": "Enperry",
-      "most_common": "Sub Power Up",
-      "least_common": "Ink Resistance Up"
+      "least_common": "Cold-Blooded",
+      "image": "images/brands/B09.png"
     },
     {
       "name": "Krak-On",
       "most_common": "Swim Speed Up",
-      "least_common": "Bomb Defense Up"
+      "least_common": "Bomb Defense Up",
+      "image": "images/brands/B02.png"
     },
     {
       "name": "Rockenberg",
       "most_common": "Run Speed Up",
-      "least_common": "Swim Speed Up"
-    },
-    {
-      "name": "Enperry",
-      "most_common": "Sub Power Up",
-      "least_common": "Ink Resistance Up"
+      "least_common": "Swim Speed Up",
+      "image": "images/brands/B03.png"
     },
     {
       "name": "Skalop",
       "most_common": "Quick Respawn",
-      "least_common": "Special Saver"
+      "least_common": "Special Saver",
+      "image": "images/brands/B07.png"
     },
     {
       "name": "Splash Mob",
       "most_common": "Ink Saver (Main)",
-      "least_common": "Run Speed Up"
+      "least_common": "Run Speed Up",
+      "image": "images/brands/B.png"
     },
     {
       "name": "SquidForce",
       "most_common": "Ink Resistance Up",
-      "least_common": "Ink Saver (Main)"
+      "least_common": "Ink Saver (Main)",
+      "image": "images/brands/B08.png"
     },
     {
       "name": "Takoroka",
       "most_common": "Special Charge Up",
-      "least_common": "Ink Recovery Up"
+      "least_common": "Ink Recovery Up",
+      "image": "images/brands/B11.png"
     },
     {
       "name": "Tentatek",
       "most_common": "Ink Recovery Up",
-      "least_common": "Quick Super Jump"
+      "least_common": "Quick Super Jump",
+      "image": "images/brands/B10.png"
     },
     {
       "name": "Toni Kensa",
       "most_common": "Cold-Blooded",
-      "least_common": "Sub Power Up"
+      "least_common": "Sub Power Up",
+      "image": "images/brands/B17.png"
     },
     {
       "name": "Zekko",
       "most_common": "Special Saver",
-      "least_common": "Special Charge Up"
+      "least_common": "Special Charge Up",
+      "image": "images/brands/B04.png"
     },
     {
       "name": "Zink",
       "most_common": "Quick Super Jump",
-      "least_common": "Quick Respawn"
+      "least_common": "Quick Respawn",
+      "image": "images/brands/B01.png"
     }
   ]
 }
