@@ -1,7 +1,7 @@
 {
-    "data": [
-      {
-      "name":"Ink Saver (Main)",
+  "data": [
+    {
+      "name": "Ink Saver (Main)",
       "localizedName": {
         "ja_JP": "インク効率アップ（メイン）",
         "en_US": "Ink Saver (Main)",
@@ -12,11 +12,11 @@
         "fr_CA": "Encrémenteur (pr.)",
         "de_DE": "Hauptverbrauch"
       },
-      "image":"images/abilities/MainInk_Save.png",
+      "image": "images/abilities/MainInk_Save.png",
       "id": 1
     },
     {
-      "name":"Ink Saver (Sub)",
+      "name": "Ink Saver (Sub)",
       "localizedName": {
         "ja_JP": "インク効率アップ（サブ）",
         "en_US": "Ink Saver (Sub)",
@@ -27,11 +27,11 @@
         "fr_CA": "Encrémenteur (sec.)",
         "de_DE": "Sekundärverbrauch"
       },
-      "image":"images/abilities/SubInk_Save.png",
+      "image": "images/abilities/SubInk_Save.png",
       "id": 2
     },
     {
-      "name":"Ink Recovery Up",
+      "name": "Ink Recovery Up",
       "localizedName": {
         "ja_JP": "インク回復力アップ",
         "en_US": "Ink Recovery Up",
@@ -42,11 +42,11 @@
         "fr_CA": "Levée d'encre",
         "de_DE": "Regeneration +"
       },
-      "image":"images/abilities/InkRecovery_Up.png",
+      "image": "images/abilities/InkRecovery_Up.png",
       "id": 3
     },
     {
-      "name":"Run Speed Up",
+      "name": "Run Speed Up",
       "localizedName": {
         "ja_JP": "ヒト移動速度アップ",
         "en_US": "Run Speed Up",
@@ -57,11 +57,11 @@
         "fr_CA": "Course à pied",
         "de_DE": "Lauftempo +"
       },
-      "image":"images/abilities/HumanMove_Up.png",
+      "image": "images/abilities/HumanMove_Up.png",
       "id": 4
     },
     {
-      "name":"Swim Speed Up",
+      "name": "Swim Speed Up",
       "localizedName": {
         "ja_JP": "イカダッシュ速度アップ",
         "en_US": "Swim Speed Up",
@@ -72,11 +72,11 @@
         "fr_CA": "Turbo-calmar",
         "de_DE": "Schwimmtempo +"
       },
-      "image":"images/abilities/SquidMove_Up.png",
+      "image": "images/abilities/SquidMove_Up.png",
       "id": 5
     },
     {
-      "name":"Quick Super Jump",
+      "name": "Quick Super Jump",
       "localizedName": {
         "ja_JP": "スーパージャンプ時間短縮",
         "en_US": "Quick Super Jump",
@@ -87,11 +87,11 @@
         "fr_CA": "Aérodynamisme",
         "de_DE": "Supersprung +"
       },
-      "image":"images/abilities/JumpTime_Save.png",
+      "image": "images/abilities/JumpTime_Save.png",
       "id": 6
     },
     {
-      "name":"Ink Resistance Up",
+      "name": "Ink Resistance Up",
       "localizedName": {
         "ja_JP": "相手インク影響軽減",
         "en_US": "Ink Resistance Up",
@@ -102,11 +102,11 @@
         "fr_CA": "Imperméabilité",
         "de_DE": "Tintentoleranz +"
       },
-      "image":"images/abilities/OpInkEffect_Reduction.png",
+      "image": "images/abilities/OpInkEffect_Reduction.png",
       "id": 7
     },
     {
-      "name":"Bomb Defense Up",
+      "name": "Bomb Defense Up",
       "localizedName": {
         "ja_JP": "爆風ダメージ軽減",
         "en_US": "Bomb Defense Up",
@@ -117,11 +117,11 @@
         "fr_CA": "Filtre à explosions",
         "de_DE": "Bombenschutz"
       },
-      "image":"images/abilities/BombDamage_Reduction.png",
+      "image": "images/abilities/BombDamage_Reduction.png",
       "id": 8
     },
     {
-      "name":"Cold-Blooded",
+      "name": "Cold-Blooded",
       "localizedName": {
         "ja_JP": "マーキング時間短縮",
         "en_US": "Cold-Blooded",
@@ -132,11 +132,11 @@
         "fr_CA": "Furtivité",
         "de_DE": "Phantom"
       },
-      "image":"images/abilities/MarkingTime_Reduction.png",
+      "image": "images/abilities/MarkingTime_Reduction.png",
       "id": 9
     },
     {
-      "name":"Quick Respawn",
+      "name": "Quick Respawn",
       "localizedName": {
         "ja_JP": "復活時間短縮",
         "en_US": "Quick Respawn",
@@ -147,11 +147,11 @@
         "fr_CA": "Sans temps mort",
         "de_DE": "Schnelle Rückkehr"
       },
-      "image":"images/abilities/RespawnTime_Save.png",
+      "image": "images/abilities/RespawnTime_Save.png",
       "id": 10
     },
     {
-      "name":"Special Charge Up",
+      "name": "Special Charge Up",
       "localizedName": {
         "ja_JP": "スペシャル増加量アップ",
         "en_US": "Special Charge Up",
@@ -162,11 +162,11 @@
         "fr_CA": "Jauge spéciale +",
         "de_DE": "Spezialladezeit +"
       },
-      "image":"images/abilities/SpecialIncrease_Up.png",
+      "image": "images/abilities/SpecialIncrease_Up.png",
       "id": 11
     },
     {
-      "name":"Special Saver",
+      "name": "Special Saver",
       "localizedName": {
         "ja_JP": "スペシャル減少量ダウン",
         "en_US": "Special Saver",
@@ -177,11 +177,11 @@
         "fr_CA": "Baisse spéciale -",
         "de_DE": "Spezialabzug -"
       },
-      "image":"images/abilities/RespawnSpecialGauge_Save.png",
+      "image": "images/abilities/RespawnSpecialGauge_Save.png",
       "id": 12
     },
     {
-      "name":"Special Power Up",
+      "name": "Special Power Up",
       "localizedName": {
         "ja_JP": "スペシャル性能アップ",
         "en_US": "Special Power Up",
@@ -192,11 +192,11 @@
         "fr_CA": "Arme spéciale +",
         "de_DE": "Spezialstärke +"
       },
-      "image":"images/abilities/SpecialTime_Up.png",
+      "image": "images/abilities/SpecialTime_Up.png",
       "id": 13
     },
     {
-      "name":"Sub Power Up",
+      "name": "Sub Power Up",
       "localizedName": {
         "ja_JP": "サブ性能アップ",
         "en_US": "Sub Power Up",
@@ -207,11 +207,11 @@
         "fr_CA": "Arme secondaire +",
         "de_DE": "Sekundärstärke +"
       },
-      "image":"images/abilities/BombDistance_Up.png",
+      "image": "images/abilities/BombDistance_Up.png",
       "id": 14
     },
     {
-      "name":"Opening Gambit",
+      "name": "Opening Gambit",
       "localizedName": {
         "ja_JP": "スタートダッシュ",
         "en_US": "Opening Gambit",
@@ -222,12 +222,12 @@
         "fr_CA": "Départ toute allure",
         "de_DE": "Startvorteil"
       },
-      "image":"images/abilities/StartAllUp.png",
-      "exclusive":"loadout.head.main",
+      "image": "images/abilities/StartAllUp.png",
+      "exclusive": "loadout.head.main",
       "id": 15
     },
     {
-      "name":"Last-Ditch Effort",
+      "name": "Last-Ditch Effort",
       "localizedName": {
         "ja_JP": "ラストスパート",
         "en_US": "Last-Ditch Effort",
@@ -238,12 +238,12 @@
         "fr_CA": "Ultime sursaut",
         "de_DE": "Endspurt"
       },
-      "image":"images/abilities/EndAllUp.png",
-      "exclusive":"loadout.head.main",
+      "image": "images/abilities/EndAllUp.png",
+      "exclusive": "loadout.head.main",
       "id": 16
     },
     {
-      "name":"Comeback",
+      "name": "Comeback",
       "localizedName": {
         "ja_JP": "カムバック",
         "en_US": "Comeback",
@@ -254,12 +254,12 @@
         "fr_CA": "Retour",
         "de_DE": "Rückkehr"
       },
-      "image":"images/abilities/ComeBack.png",
-      "exclusive":"loadout.head.main",
+      "image": "images/abilities/ComeBack.png",
+      "exclusive": "loadout.head.main",
       "id": 17
     },
     {
-      "name":"Tenacity",
+      "name": "Tenacity",
       "localizedName": {
         "ja_JP": "逆境強化",
         "en_US": "Tenacity",
@@ -270,12 +270,12 @@
         "fr_CA": "Ténacité",
         "de_DE": "Zähigkeit"
       },
-      "image":"images/abilities/MinorityUp.png",
-      "exclusive":"loadout.head.main",
+      "image": "images/abilities/MinorityUp.png",
+      "exclusive": "loadout.head.main",
       "id": 18
     },
     {
-      "name":"Thermal Ink",
+      "name": "Thermal Ink",
       "localizedName": {
         "ja_JP": "サーマルインク",
         "en_US": "Thermal Ink",
@@ -286,12 +286,12 @@
         "fr_CA": "Encre thermique",
         "de_DE": "Markierfarbe"
       },
-      "image":"images/abilities/ThermalInk.png",
-      "exclusive":"loadout.clothes.main",
+      "image": "images/abilities/ThermalInk.png",
+      "exclusive": "loadout.clothes.main",
       "id": 19
     },
     {
-      "name":"Ninja Squid",
+      "name": "Ninja Squid",
       "localizedName": {
         "ja_JP": "イカニンジャ",
         "en_US": "Ninja Squid",
@@ -302,12 +302,12 @@
         "fr_CA": "Ninjalmar",
         "de_DE": "Tintenfisch-Ninja"
       },
-      "image":"images/abilities/SquidMoveSpatter_Reduction.png",
-      "exclusive":"loadout.clothes.main",
+      "image": "images/abilities/SquidMoveSpatter_Reduction.png",
+      "exclusive": "loadout.clothes.main",
       "id": 20
     },
     {
-      "name":"Haunt",
+      "name": "Haunt",
       "localizedName": {
         "ja_JP": "リベンジ",
         "en_US": "Haunt",
@@ -318,12 +318,12 @@
         "fr_FR": "Vengeance",
         "de_DE": "Vertgeltung"
       },
-      "image":"images/abilities/DeathMarking.png",
-      "exclusive":"loadout.clothes.main",
+      "image": "images/abilities/DeathMarking.png",
+      "exclusive": "loadout.clothes.main",
       "id": 21
     },
     {
-      "name":"Respawn Punisher",
+      "name": "Respawn Punisher",
       "localizedName": {
         "ja_JP": "復活ペナルティアップ",
         "en_US": "Respawn Punisher",
@@ -334,12 +334,12 @@
         "fr_CA": "Retour perdant",
         "de_DE": "Heimsuchung"
       },
-      "image":"images/abilities/Exorcist.png",
-      "exclusive":"loadout.clothes.main",
+      "image": "images/abilities/Exorcist.png",
+      "exclusive": "loadout.clothes.main",
       "id": 22
     },
     {
-      "name":"Drop Roller",
+      "name": "Drop Roller",
       "localizedName": {
         "ja_JP": "受け身術",
         "en_US": "Drop Roller",
@@ -350,12 +350,12 @@
         "fr_FR": "Super roulade",
         "de_DE": "Tricklandung"
       },
-      "image":"images/abilities/SomersaultLanding.png",
-      "exclusive":"loadout.shoes.main",
+      "image": "images/abilities/SomersaultLanding.png",
+      "exclusive": "loadout.shoes.main",
       "id": 23
     },
     {
-      "name":"Stealth Jump",
+      "name": "Stealth Jump",
       "localizedName": {
         "ja_JP": "ステルスジャンプ",
         "en_US": "Stealth Jump",
@@ -366,12 +366,12 @@
         "fr_CA": "Super saut invisible",
         "de_DE": "Sprunginfiltration"
       },
-      "image":"images/abilities/SuperJumpSign_Hide.png",
-      "exclusive":"loadout.shoes.main",
+      "image": "images/abilities/SuperJumpSign_Hide.png",
+      "exclusive": "loadout.shoes.main",
       "id": 24
     },
     {
-      "name":"Object Shredder",
+      "name": "Object Shredder",
       "localizedName": {
         "ja_JP": "対物攻撃力アップ",
         "en_US": "Object Shredder",
@@ -382,8 +382,8 @@
         "fr_FR": "Démolition",
         "de_DE": "Zerstörer"
       },
-      "image":"images/abilities/ObjectEffect_Up.png",
-      "exclusive":"loadout.shoes.main",
+      "image": "images/abilities/ObjectEffect_Up.png",
+      "exclusive": "loadout.shoes.main",
       "id": 25
     },
     {
@@ -398,8 +398,13 @@
         "fr_FR": "Bonus ×2",
         "de_DE": "Effektdoppelung"
       },
-      "image":"images/abilities/ExSkillDouble.png",
-      "exclusive":"hidden",
+      "image": "images/abilities/ExSkillDouble.png",
+      "exclusive": "hidden",
       "id": 26
-    }]
+    },
+    {
+        "name": "N/A",
+        "image": "images/abilities/NA.png"
+    }
+  ]
 }
