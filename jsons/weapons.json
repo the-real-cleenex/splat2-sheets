@@ -1,5 +1,5 @@
 {
-  "weapons": [
+  "data": [
     {
       "image": "images/weapons/Wst_Shooter_First_00.png",
       "name": "Splattershot Jr.",
@@ -1098,7 +1098,7 @@
         "fr_CA": "Glooga Dualies",
         "de_DE": "Glooga Dualies"
       },
-      "unreleased": true,
+      "unreleased": false,
       "shotUnit": "{{ SHOT_UNIT_SHOT | translate }}",
       "sub": "Ink Mine",
       "special": "Inkjet",
@@ -2909,10 +2909,10 @@
         "fr_CA": "Exteinteur",
         "de_DE": "Hydra Splatling" //TODO
       },
-      "unreleased": true,
+      "unreleased": false,
       "shotUnit": "{{ SHOT_UNIT_CHARGER | translate }}",
       "sub": "Autobomb",
-      "special": "Ink Armor",
+      "special": "Splashdown",
       "level": 27,
       "specialCost": 190,
       "inkSaver": "High",
