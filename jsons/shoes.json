@@ -1055,287 +1055,287 @@
       "id": 61
     },
     {
-      "image": "Amber_Sea_Slug_Hi-Tops.png",
+      "image": "image/gear/shoes/Amber_Sea_Slug_Hi-Tops.png",
       "name": "Amber Sea Slug Hi-Tops",
       "brand": "Tentatek",
       "main": "Drop Roller",
       "stars": 3
     },
     {
-      "image": "Annaki_Habaneros.png",
+      "image": "image/gear/shoes/Annaki_Habaneros.png",
       "name": "Annaki Habaneros",
       "brand": "Annaki",
       "main": "Sub Power Up",
       "stars": 3
     },
     {
-      "image": "Black_Seahorses.png",
+      "image": "image/gear/shoes/Black_Seahorses.png",
       "name": "Black Seahorses",
       "brand": "Zink",
       "main": "Swim Speed Up",
       "stars": 2
     },
     {
-      "image": "Blue_Laceless_Dakroniks.png",
+      "image": "image/gear/shoes/Blue_Laceless_Dakroniks.png",
       "name": "Blue Laceless Dakroniks",
       "brand": "Zink",
       "main": "Stealth Jump",
       "stars": 1
     },
     {
-      "image": "Blue_Lo-Tops.png",
+      "image": "image/gear/shoes/Blue_Lo-Tops.png",
       "name": "Blue Lo-Tops",
       "brand": "Zekko",
       "main": "Bomb Defense Up",
       "stars": 1
     },
     {
-      "image": "Bubble_Rain_Boots.png",
+      "image": "image/gear/shoes/Bubble_Rain_Boots.png",
       "name": "Bubble Rain Boots",
       "brand": "Inkline",
       "main": "Drop Roller",
       "stars": 1
     },
     {
-      "image": "Clownfish_Basics.png",
+      "image": "image/gear/shoes/Clownfish_Basics.png",
       "name": "Clownfish Basics",
       "brand": "Krak-On",
       "main": "Special Charge Up",
       "stars": 1
     },
     {
-      "image": "Cyan_Trainers.png",
+      "image": "image/gear/shoes/Cyan_Trainers.png",
       "name": "Cyan Trainers",
       "brand": "Tentatek",
       "main": "Stealth Jump",
       "stars": 1
     },
     {
-      "image": "Deepsea_Leather_Boots.png",
+      "image": "image/gear/shoes/Deepsea_Leather_Boots.png",
       "name": "Deepsea Leather Boots",
       "brand": "Rockenberg",
       "main": "Ink Saver (Sub)",
       "stars": 3
     },
     {
-      "image": "Gray_Yellow-Soled_Wingtips.png",
+      "image": "image/gear/shoes/Gray_Yellow-Soled_Wingtips.png",
       "name": "Gray Yellow-Soled Wingtips",
       "brand": "Rockenberg",
       "main": "Quick Super Jump",
       "stars": 2
     },
     {
-      "image": "Green_Iromaki_750s.png",
+      "image": "image/gear/shoes/Green_Iromaki_750s.png",
       "name": "Green Iromaki 750s",
       "brand": "Tentatek",
       "main": "Special Power Up",
       "stars": 1
     },
     {
-      "image": "Green_Laceups.png",
+      "image": "image/gear/shoes/Green_Laceups.png",
       "name": "Green Laceups",
       "brand": "Splash Mob",
       "main": "Cold-Blooded",
       "stars": 1
     },
     {
-      "image": "Green_Rain_Boots.png",
+      "image": "image/gear/shoes/Green_Rain_Boots.png",
       "name": "Green Rain Boots",
       "brand": "Inkline",
       "main": "Stealth Jump",
       "stars": 2
     },
     {
-      "image": "Luminous_Delta_Straps.png",
+      "image": "image/gear/shoes/Luminous_Delta_Straps.png",
       "name": "Luminous Delta Straps",
       "brand": "Inkline",
       "main": "Cold-Blooded",
       "stars": 2
     },
     {
-      "image": "Moist_Ghillie_Boots.png",
+      "image": "image/gear/shoes/Moist_Ghillie_Boots.png",
       "name": "Moist Ghillie Boots",
       "brand": "Forge",
       "main": "Object Shredder",
       "stars": 3
     },
     {
-      "image": "N-Pacer_Ag.png",
+      "image": "image/gear/shoes/N-Pacer_Ag.png",
       "name": "N-Pacer Ag",
       "brand": "Enperry",
       "main": "Ink Recovery Up",
       "stars": 2
     },
     {
-      "image": "N-Pacer_Au.png",
+      "image": "image/gear/shoes/N-Pacer_Au.png",
       "name": "N-Pacer Au",
       "brand": "Enperry",
       "main": "Quick Respawn",
       "stars": 3
     },
     {
-      "image": "Navy_Enperrials.png",
+      "image": "image/gear/shoes/Navy_Enperrials.png",
       "name": "Navy Enperrials",
       "brand": "Enperry",
       "main": "Ink Saver (Main)",
       "stars": 3
     },
     {
-      "image": "Navy_Red-Soled_Wingtips.png",
+      "image": "image/gear/shoes/Navy_Red-Soled_Wingtips.png",
       "name": "Navy Red-Soled Wingtips",
       "brand": "Rockenberg",
       "main": "Ink Saver (Main)",
       "stars": 2
     },
     {
-      "image": "Orca_Woven_Hi-Tops.png",
+      "image": "image/gear/shoes/Orca_Woven_Hi-Tops.png",
       "name": "Orca Woven Hi-Tops",
       "brand": "Takoroka",
       "main": "Ink Saver (Sub)",
       "stars": 2
     },
     {
-      "image": "Polka-dot_Slip-Ons.png",
+      "image": "image/gear/shoes/Polka-dot_Slip-Ons.png",
       "name": "Polka-dot Slip-Ons",
       "brand": "Krak-On",
       "main": "Drop Roller",
       "stars": 2
     },
     {
-      "image": "Punk_Cherries.png",
+      "image": "image/gear/shoes/Punk_Cherries.png",
       "name": "Punk Cherries",
       "brand": "Rockenberg",
       "main": "Bomb Defense Up",
       "stars": 3
     },
     {
-      "image": "Purple_Iromaki_750s.png",
+      "image": "image/gear/shoes/Purple_Iromaki_750s.png",
       "name": "Purple Iromaki 750s",
       "brand": "Tentatek",
       "main": "Swim Speed Up",
       "stars": 1
     },
     {
-      "image": "Red_FishFry_Sandals.png",
+      "image": "image/gear/shoes/Red_FishFry_Sandals.png",
       "name": "Red FishFry Sandals",
       "brand": "Fifefin",
       "main": "Object Shredder",
       "stars": 2
     },
     {
-      "image": "Red_Hi-Tops.png",
+      "image": "image/gear/shoes/Red_Hi-Tops.png",
       "name": "Red Hi-Tops",
       "brand": "Krak-On",
       "main": "Ink Resistance Up",
       "stars": 2
     },
     {
-      "image": "Red_Iromaki_750s.png",
+      "image": "image/gear/shoes/Red_Iromaki_750s.png",
       "name": "Red Iromaki 750s",
       "brand": "Tentatek",
       "main": "Ink Saver (Sub)",
       "stars": 1
     },
     {
-      "image": "Red_Sea_Slugs.png",
+      "image": "image/gear/shoes/Red_Sea_Slugs.png",
       "name": "Red Sea Slugs",
       "brand": "Tentatek",
       "main": "Special Saver Up",
       "stars": 3
     },
     {
-      "image": "Red_Slip-Ons.png",
+      "image": "image/gear/shoes/Red_Slip-Ons.png",
       "name": "Red Slip-Ons",
       "brand": "Krak-On",
       "main": "Quick Super Jump",
       "stars": 1
     },
     {
-      "image": "Shark_Moccasins.png",
+      "image": "image/gear/shoes/Shark_Moccasins.png",
       "name": "Shark Moccasins",
       "brand": "Splash Mob",
       "main": "Sub Power Up",
       "stars": 1
     },
     {
-      "image": "Snowy_Down_Boots.png",
+      "image": "image/gear/shoes/Snowy_Down_Boots.png",
       "name": "Snowy Down Boots",
       "brand": "Tentatek",
       "main": "Quick Super Jump",
       "stars": 3
     },
     {
-      "image": "Soccer_Shoes.png",
+      "image": "image/gear/shoes/Soccer_Shoes.png",
       "name": "Soccer Shoes",
       "brand": "Takoroka",
       "main": "Bomb Defense Up",
       "stars": 3
     },
     {
-      "image": "Squid-Stitch_Slip-Ons.png",
+      "image": "image/gear/shoes/Squid-Stitch_Slip-Ons.png",
       "name": "Squid-Stitch Slip-Ons",
       "brand": "Krak-On",
       "main": "Bomb Defense Up",
       "stars": 2
     },
     {
-      "image": "Squink_Wingtips.png",
+      "image": "image/gear/shoes/Squink_Wingtips.png",
       "name": "Squink Wingtips",
       "brand": "Rockenberg",
       "main": "Quick Respawn",
       "stars": 1
     },
     {
-      "image": "Sun_&_Shade_Squidkid_IV.png",
+      "image": "image/gear/shoes/Sun_&_Shade_Squidkid_IV.png",
       "name": "Sun & Shade Squidkid IV",
       "brand": "Enperry",
       "main": "Cold-Blooded",
       "stars": 3
     },
     {
-      "image": "Tan_Work_Boots.png",
+      "image": "image/gear/shoes/Tan_Work_Boots.png",
       "name": "Tan Work Boots",
       "brand": "Rockenberg",
       "main": "Sub Power Up",
       "stars": 2
     },
     {
-      "image": "Turquoise_Kicks.png",
+      "image": "image/gear/shoes/Turquoise_Kicks.png",
       "name": "Turquoise Kicks",
       "brand": "Rockenberg",
       "main": "Special Charge Up",
       "stars": 2
     },
     {
-      "image": "Violet_Trainers.png",
+      "image": "image/gear/shoes/Violet_Trainers.png",
       "name": "Violet Trainers",
       "brand": "Tentatek",
       "main": "Object Shredder",
       "stars": 1
     },
     {
-      "image": "White_Arrows.png",
+      "image": "image/gear/shoes/White_Arrows.png",
       "name": "White Arrows",
       "brand": "Takoroka",
       "main": "Special Power Up",
       "stars": 2
     },
     {
-      "image": "White_Laceless_Dakroniks.png",
+      "image": "image/gear/shoes/White_Laceless_Dakroniks.png",
       "name": "White Laceless Dakroniks",
       "brand": "Zink",
       "main": "Run Speed Up",
       "stars": 2
     },
     {
-      "image": "Yellow_Iromaki_750s.png",
+      "image": "image/gear/shoes/Yellow_Iromaki_750s.png",
       "name": "Yellow Iromaki 750s",
       "brand": "Tentatek",
       "main": "Special Saver",
       "stars": 1
     },
     {
-      "image": "Zombie_Hi-Horses.png",
+      "image": "image/gear/shoes/Zombie_Hi-Horses.png",
       "name": "Zombie Hi-Horses",
       "brand": "Zink",
       "main": "Special Charge Up",
