@@ -1274,7 +1274,7 @@
         "es_MX": "Rodillo de carbono chic",
         "fr_FR": "Rouleau carbone chic",
         "fr_CA": "Rouleau carbone chic",
-        "de_DE": "Carbon Roller Deco" // TODO
+        "de_DE": "Carbon Roller Deco" 
       },
       "unreleased": true,
       "shotUnit": "{{ SHOT_UNIT_FLICK | translate }}",
@@ -1335,7 +1335,7 @@
         "es_MX": "Rodillo Pro dorado",
         "fr_FR": "Dynamo-rouleau tesla",
         "fr_CA": "Dynamo-rouleau pro",
-        "de_DE": "Dynaroller Tesla" // TODO
+        "de_DE": "Dynaroller Tesla"
       },
       "shotUnit": "{{ SHOT_UNIT_FLICK | translate }}",
       "sub": "Toxic Mist",
@@ -1455,7 +1455,7 @@
         "es_MX": "Pincel maestro",
         "fr_FR": "Épinceau nuancé",
         "fr_CA": "Épinceau nuancé",
-        "de_DE": "Inkbrush Nouveau" // TODO
+        "de_DE": "Inkbrush Nouveau" 
       },
       "unreleased": true,
       "shotUnit": "{{ SHOT_UNIT_FLICK | translate }}",
@@ -1546,7 +1546,7 @@
         "es_MX": "Pincel caligrafía maestro",
         "fr_FR": "Épinceau brosse nuancé",
         "fr_CA": "Épinceau brosse nuancé",
-        "de_DE": "Octobrush Nouveau" // TODO
+        "de_DE": "Octobrush Nouveau" 
       },
       "unreleased": true,
       "shotUnit": "{{ SHOT_UNIT_FLICK | translate }}",
@@ -1696,7 +1696,7 @@
         "es_MX": "Telelanzamotas adaptado",
         "fr_FR": "Éclablaster XL griffé",
         "fr_CA": "Éclablasteur LP modifié",
-        "de_DE": "Custom Range Blaster" // TODO
+        "de_DE": "Custom Range Blaster" 
       },
       "unreleased": true,
       "shotUnit": "{{ SHOT_UNIT_SHOT | translate }}",
@@ -1777,8 +1777,7 @@
       "id": 6
     },
     {
-      "image":
-        "images/weapons/Wst_Shooter_BlasterLightLong_00.png",
+      "image": "images/weapons/Wst_Shooter_BlasterLightLong_00.png",
       "name": "Rapid Blaster Pro",
       "localizedName": {
         "ja_JP": "Rブラスターエリート",
@@ -1808,8 +1807,7 @@
       "id": 7
     },
     {
-      "image":
-        "images/weapons/Wst_Shooter_BlasterLightLong_01.png",
+      "image": "images/weapons/Wst_Shooter_BlasterLightLong_01.png",
       "name": "Rapid Blaster Pro Deco",
       "localizedName": {
         "ja_JP": "Rブラスターエリートデコ",
@@ -1901,8 +1899,7 @@
       "id": 10
     },
     {
-      "image":
-        "images/weapons/Wst_Shooter_BlasterLightShort_00.png",
+      "image": "images/weapons/Wst_Shooter_BlasterLightShort_00.png",
       "name": "Clash Blaster",
       "localizedName": {
         "ja_JP": "クラッシュブラスター",
@@ -1932,11 +1929,9 @@
       "id": 11
     },
     {
-      "image":
-        "images/weapons/Wst_Shooter_BlasterLightShort_01.png",
+      "image": "images/weapons/Wst_Shooter_BlasterLightShort_01.png",
       "name": "Clash Blaster Neo",
       "localizedName": {
-        // TODO
         "ja_JP": "Clash Blaster Neo",
         "en_US": "Clash Blaster Neo",
         "en_GB": "Clash Blaster Neo",
@@ -2027,7 +2022,6 @@
       "image": "images/weapons/Wst_Umbrella_Normal_01.png",
       "name": "Sorella Brella",
       "localizedName": {
-        // TODO
         "ja_JP": "Sorella Brella",
         "en_US": "Sorella Brella",
         "en_GB": "Sorella Brella",
@@ -2274,7 +2268,7 @@
         "es_MX": "Derramatic centrífugo neo",
         "fr_FR": "Encrifugeur Néo",
         "fr_CA": "Encrifugeur néo",
-        "de_DE": "Sloshing Machine Neo" // TODO
+        "de_DE": "Sloshing Machine Neo"
       },
       "unreleased": true,
       "shotUnit": "{{ SHOT_UNIT_SLOSHER | translate }}",
@@ -2484,7 +2478,7 @@
         "es_MX": "Delineador X",
         "fr_FR": "Décap'express Bêta",
         "fr_CA": "Lignizateur bêta",
-        "de_DE": "Sepiator β" // TODO
+        "de_DE": "Sepiator β"
       },
       "unreleased": true,
       "shotUnit": "{{ SHOT_UNIT_CHARGER | translate }}",
@@ -2545,7 +2539,7 @@
         "es_MX": "Entintador 4K adaptado",
         "fr_FR": "Extraceur + modifié",
         "fr_CA": "X-traceur + modifié",
-        "de_DE": "Custom E-liter 4K" //TODO
+        "de_DE": "Custom E-liter 4K" 
       },
       "unreleased": true,
       "shotUnit": "{{ SHOT_UNIT_CHARGER | translate }}",
@@ -2606,7 +2600,7 @@
         "es_MX": "Telentintador 4K adaptado",
         "fr_FR": "Extraceur + zoom modifié",
         "fr_CA": "X-traceur + modifié",
-        "de_DE": "Custom E-liter 4K Scope" //TODO
+        "de_DE": "Custom E-liter 4K Scope" 
       },
       "unreleased": true,
       "shotUnit": "{{ SHOT_UNIT_CHARGER | translate }}",
@@ -2660,7 +2654,6 @@
       "image": "images/weapons/Wst_Charger_Keeper_01.png",
       "name": "Custom Goo Tuber",
       "localizedName": {
-        // TODO
         "ja_JP": "Custom Goo Tuber",
         "en_US": "Custom Goo Tuber",
         "en_GB": "Custom Goo Tuber",
@@ -2876,7 +2869,7 @@
         "es_MX": "Garabateador Tintaz",
         "fr_FR": "Badigeonneur XS griffé",
         "fr_CA": "Badigeonneur XP Leviathus",
-        "de_DE": "Zink Mini Splatling" //TODO
+        "de_DE": "Zink Mini Splatling" 
       },
       "unreleased": true,
       "shotUnit": "{{ SHOT_UNIT_CHARGER | translate }}",
@@ -2907,7 +2900,7 @@
         "es_MX": "Garabateador HD",
         "fr_FR": "Exteinteur",
         "fr_CA": "Exteinteur",
-        "de_DE": "Hydra Splatling" //TODO
+        "de_DE": "Hydra Splatling" 
       },
       "unreleased": false,
       "shotUnit": "{{ SHOT_UNIT_CHARGER | translate }}",
@@ -2936,7 +2929,7 @@
         "es_MX": "Garabateador HD adaptado",
         "fr_FR": "Exteinteur modifié",
         "fr_CA": "Exteinteur modifié",
-        "de_DE": "Custom Hydra Splatling" //TODO
+        "de_DE": "Custom Hydra Splatling" 
       },
       "unreleased": true,
       "shotUnit": "{{ SHOT_UNIT_CHARGER | translate }}",
