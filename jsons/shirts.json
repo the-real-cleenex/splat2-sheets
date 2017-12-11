@@ -1872,8 +1872,8 @@
       "id": 109
     },
     {
-      "image": "images/gear/shirts/Alola_Shirt.png",
-      "name": "Alola Shirt",
+      "image": "images/gear/shirts/Aloha_Shirt.png",
+      "name": "Aloha Shirt",
       "brand": "Forge",
       "main": "Ink Recovery Up",
       "stars": 1
@@ -1886,7 +1886,7 @@
       "stars": 2
     },
     {
-      "image": "images/gear/shirts/Annaki Red Cuff.png",
+      "image": "images/gear/shirts/Annaki_Red_Cuff.png",
       "name": "Annaki Red Cuff",
       "brand": "Annaki",
       "main": "Haunt",
@@ -2331,13 +2331,6 @@
       "name": "Zekko Long Radish Tee",
       "brand": "Zekko",
       "main": "Haunt",
-      "stars": 1
-    },
-    {
-      "image": "images/gear/shirts/Aloha_Shirt.png",
-      "name": "Aloha Shirt",
-      "brand": "Forge",
-      "main": "Ink Recovery Up",
       "stars": 1
     }
   ]
