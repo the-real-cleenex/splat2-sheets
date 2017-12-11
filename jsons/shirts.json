@@ -2332,6 +2332,13 @@
       "brand": "Zekko",
       "main": "Haunt",
       "stars": 1
+    },
+    {
+      "image": "images/gear/shirts/Aloha_Shirt.png",
+      "name": "Aloha Shirt",
+      "brand": "Forge",
+      "main": "Ink Recovery Up",
+      "stars": 1
     }
   ]
 }
