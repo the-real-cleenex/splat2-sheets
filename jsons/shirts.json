@@ -2332,6 +2332,13 @@
       "brand": "Zekko",
       "main": "Haunt",
       "stars": 1
+    },
+    {
+      "image": "images/gear/shirts/White_Layered_LS.png",
+      "name": "White Layered LS",
+      "brand": "SquidForce",
+      "main": "Ink Saver (Sub)",
+      "stars": 1
     }
   ]
 }
