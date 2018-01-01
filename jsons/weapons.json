@@ -770,7 +770,7 @@
         "fr_CA": "Squeezer",
         "de_DE": "Squeezer"
       },
-      "unreleased": true,
+      "unreleased": false,
       "shotUnit": "{{ SHOT_UNIT_SHOT | translate }}",
       "sub": "Splash Wall",
       "special": "Sting Ray",
@@ -1548,7 +1548,7 @@
         "fr_CA": "Épinceau brosse nuancé",
         "de_DE": "Octobrush Nouveau" 
       },
-      "unreleased": true,
+      "unreleased": false,
       "shotUnit": "{{ SHOT_UNIT_FLICK | translate }}",
       "sub": "Squid Beakon",
       "special": "Tenta Missiles",
@@ -2076,6 +2076,11 @@
       "id": 3
     },
     {
+      "image": "images/weapons/undercover-brella.png",
+      "name": "Undercover Brella",
+      "unreleased": false
+    },
+    {
       "image": "images/weapons/Wst_Slosher_Strong_00.png",
       "name": "Slosher",
       "localizedName": {
@@ -2148,7 +2153,7 @@
         "fr_CA": "Seauceur chic",
         "de_DE": "Slosher Deco"
       },
-      "unreleased": true,
+      "unreleased": false,
       "shotUnit": "{{ SHOT_UNIT_SLOSHER | translate }}",
       "sub": "Sprinkler",
       "special": "Baller",
@@ -2946,6 +2951,6 @@
         "{{ SHELDON_MOBILITY | translate }}": 20
       },
       "id": 6
-    }
+    }   
   ]
 }
