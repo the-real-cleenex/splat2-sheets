@@ -2339,6 +2339,13 @@
       "brand": "SquidForce",
       "main": "Ink Saver (Sub)",
       "stars": 1
+    },
+    {
+      "image": "images/gear/shirts/Garden_Gear.png",
+      "name": "Garden Gear",
+      "brand": "Grizzco",
+      "main": "Quick Respawn",
+      "stars": 3
     }
   ]
 }
