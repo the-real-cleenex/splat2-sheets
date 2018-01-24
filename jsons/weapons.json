@@ -496,7 +496,7 @@
         "fr_CA": "Calibre 2000 chic",
         "de_DE": ".52 Gal Deco"
       },
-      "unreleased": true,
+      "unreleased": false,
       "shotUnit": "{{ SHOT_UNIT_SHOT | translate }}",
       "sub": "Curling Bomb",
       "special": "Sting Ray",
@@ -678,7 +678,7 @@
         "fr_CA": "Arroseur léger requin",
         "de_DE": "L-3 Nozzlenose D"
       },
-      "unreleased": true,
+      "unreleased": false,
       "shotUnit": "{{ SHOT_UNIT_SHOT | translate }}",
       "sub": "Burst Bomb",
       "special": "Inkjet",
