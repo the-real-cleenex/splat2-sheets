@@ -1009,7 +1009,7 @@
         "fr_CA": "Dapple Dualies Nouveau",
         "de_DE": "Dapple Dualies Nouveau"
       },
-      "unreleased": true,
+      "unreleased": false,
       "shotUnit": "{{ SHOT_UNIT_SHOT | translate }}",
       "sub": "Toxic Mist",
       "special": "Ink Storm",
