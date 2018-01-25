@@ -2078,7 +2078,9 @@
     {
       "image": "images/weapons/undercover-brella.png",
       "name": "Undercover Brella",
-      "unreleased": false
+      "unreleased": false,
+      "sub": "Ink Mine",
+      "special": "Splashdown"
     },
     {
       "image": "images/weapons/Wst_Slosher_Strong_00.png",
