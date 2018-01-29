@@ -1340,6 +1340,14 @@
       "brand": "Zink",
       "main": "Special Charge Up",
       "stars": 1
-    }
+    },
+    {
+      "image": "images/gear/headgear/Angry_Rain_Boots.png",
+      "name": "Angry Rain Boots",
+      "main": "Quick Respawn",
+      "brand": "Grizzco",
+      "stars": 3
+    } 
+    
   ]
 }

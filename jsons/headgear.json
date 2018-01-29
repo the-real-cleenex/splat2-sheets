@@ -1253,6 +1253,13 @@
       "brand": "Inkline",
       "main": "Cold-Blooded",
       "stars": 1
+    },
+    {
+      "image": "images/gear/headgear/Dust_Blocker_2000.png",
+      "name": "Dust Blocker 2000",
+      "main": "Quick Respawn",
+      "brand": "Grizzco",
+      "stars": 3
     }
   ]
 }
