@@ -1260,6 +1260,13 @@
       "main": "Quick Respawn",
       "brand": "Grizzco",
       "stars": 3
+    },
+    {
+      "image": "images/gear/headgear/Welding_Mask.png",
+      "name": "Welding Mask",
+      "main": "Quick Respawn",
+      "brand": "Grizzco",
+      "stars": 3
     }
   ]
 }
